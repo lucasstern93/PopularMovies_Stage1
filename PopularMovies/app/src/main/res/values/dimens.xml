@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="movie_title_text_size">22sp</dimen>
+    <dimen name="movie_overview_text_size">14sp</dimen>
+    <dimen name="movie_average_rating_and_release_date_text_size">18sp</dimen>
+
+    <dimen name="movie_title_margin">64dp</dimen>
+    <dimen name="movie_poster_layout_height">200dp</dimen>
+    <dimen name="movie_poster_margin">32dp</dimen>
+
+    <dimen name="column_width">150dp</dimen>
+    <dimen name="vertical_horizontal_spacing">0dp</dimen>
+</resources>
